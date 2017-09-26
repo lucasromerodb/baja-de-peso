@@ -1,0 +1,10 @@
+{
+ "desayuno": {
+	 "parteA" : "1 pan lactal con mermelada y fiambre",
+	 "partaB" : "Barrita de cereal"
+ },
+ "comida": {
+	 "parteA" : "2 heuvos hervidos con mayonesa",
+	 "parteB" : "1 papa al horno con oregano"
+ }
+}
