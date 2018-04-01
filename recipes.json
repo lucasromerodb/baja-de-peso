@@ -1,5 +1,5 @@
-{
-	"dsayuno": [
+[
+	[
 		[
 			{
 				"menu" : "name of menu",
@@ -64,7 +64,7 @@
 			}
 		]
 	],
-	"comida": [
+	[
 		[
 			{
 				"menu" : "name of menu",
@@ -256,4 +256,4 @@
 			}
 		]
 	]
-}
+]

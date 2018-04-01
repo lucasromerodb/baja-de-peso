@@ -35,10 +35,8 @@ function drawResults() {
 	const menuResult = document.getElementById('menuResult');
 	const type =Math.round(Math.random());
 	console.log('type', type);
-	// const random = Math.random(0,1) * 10;
-	// console.log('random', random);
-	console.log(typeOfFood());
-	const item = food[typeOfFood()];
+	const item = food[type];
+	console.log('type length', food[type].length);
 	menuResult.innerHTML = item
 	console.log(item);
 	// for (var i = 0; i < food.comida[type][356].length; i++) {
