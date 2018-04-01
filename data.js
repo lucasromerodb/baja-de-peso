@@ -16,19 +16,34 @@ foodMenu.onload = function() {
 	if (foodMenu.status === 200) {
 		food = JSON.parse(foodMenu.responseText);
 		console.log(food);
-		for (var i = 0; i < food.comida["0"][356].length; i++) {
-			document.getElementById('menuResult').innerHTML += food.comida["0"][356][i];
-		}
-		// myMenuResult.onclick = function() {
-		// 	drawResults();
-		// };
+		drawResults();
 	}
 };
 
-selectTypeOfFood.onchange = function() {
-	myValue = selectTypeOfFood.value;
-};
+// selectTypeOfFood.onchange = function() {
+// 	myValue = selectTypeOfFood.value;
+// };
+
+selectTypeOfFood.addEventListener('change', typeOfFood);
+
+function typeOfFood() {
+	const foodValue = selectTypeOfFood.options[selectTypeOfFood.selectedIndex].value;
+	return foodValue;
+}
 
 function drawResults() {
-	document.getElementById('menuResut').innerHTML = food.myValue[1];
+	const menuResult = document.getElementById('menuResult');
+	const type =Math.round(Math.random());
+	console.log('type', type);
+	// const random = Math.random(0,1) * 10;
+	// console.log('random', random);
+	console.log(typeOfFood());
+	const item = food[typeOfFood()];
+	menuResult.innerHTML = item
+	console.log(item);
+	// for (var i = 0; i < food.comida[type][356].length; i++) {
+	// 	menuResult.innerHTML += food.comida[type][356][i];
+	// }
 }
+
+myMenuResult.addEventListener('click', drawResults);
