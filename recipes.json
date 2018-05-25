@@ -1,259 +1,215 @@
-[
-	[
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 vaso de leche Ser o Sancor 0%",
+{
+  "recipes": {
+    "breakfast": [
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 vaso de leche Ser o Sancor 0%",
 					"2 rodajas de pan lacteado rodaja fina",
 					"2 cda. de Casancrem light o Mendicrim 0%"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 taza de café/té con leche o mate sin azúcar",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 taza de café/té con leche o mate sin azúcar",
 					"5 galletitas Ser o Criollita",
 					"3 cda. de Casancrem light o Mendicrim 0%"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 unidad de yogur Ser Firme",
-					"4 unidades tostadas Bimbo/Fargo/Ser light salvado",
-					"1 manzana o banana"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 taza de café/té con leche o mate sin azúcar",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 taza de café/té con leche o mate sin azúcar",
+					"5 galletitas Ser o Criollita",
+					"3 cda. de Casancrem light o Mendicrim 0%"
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 taza de café/té con leche o mate sin azúcar",
 					"2 cda. de Casancrem light o Mendicrim 0%",
 					"Pan miñon francés blanco",
 					"1 manzana o banana"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 taza de café/té con leche o mate sin azúcar",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 taza de café/té con leche o mate sin azúcar",
 					"2 cda. de Casancrem light o Mendicrim 0%",
 					"2 rodajas de pan lacteado rodaja fina",
 					"1 cda.sopera mermelada BC"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 unidad Actimel",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 unidad Actimel",
 					"1 taza de café/té con leche o mate sin azúcar",
 					"1 barrita de cereal light",
 					"6 galletitas Ser o Criollita"
-				]
-			}
-		]
-	],
-	[
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 Corte medieno (150 gr.) de lomo",
+        ]
+      }
+    ],
+    "food": [
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 Corte medieno (150 gr.) de lomo",
 					"Lechuga (100 gr.)",
 					"Tomate 1 unidad grande (270 gr.)",
 					"Fruta 1 banana chica (100 gr.)"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"2 Sandwich de pan lacteado con 1 feta de jamón y tomate",
-					"Fruta 1 mandarina"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Hamburguesas Paty Light 2 unidades",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "2 Sandwich de pan lacteado con 1 feta de jamón y tomate",
+          "Fruta 1 mandarina"
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Hamburguesas Paty Light 2 unidades",
 					"Lechuga (100 gr.)",
 					"Tomate 1 unidad grande (270 gr.)",
 					"Mayonesa light 1 cda. sopera (12 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Milanesa de soja Granaja del Sol 1 unidad al (horno)",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Milanesa de soja Granaja del Sol 1 unidad al (horno)",
 					"Papa 1 unidad grande (250 gr.)(horno)",
 					"1 Cassete de queso light (30 gr.)",
 					"Fruta 1 manzana chica (100 gr.)"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Pollo ¼ sin piel",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Pollo ¼ sin piel",
 					"Lechuga (100 gr.)",
 					"Tomate 1 unidad grande (270 gr.)",
 					"Cebolla 1 unidad grande (120 gr.)",
 					"Zanahoria 1 unidad grande (100 gr.)",
 					"Mayonesa light 1 cda. sopera (12 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Pescado 1 corte (200 gr.)",
-					"Papa 1 unidad grande (250 gr.)(horno)"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Arroz blanco 1 plato",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Pescado 1 corte (200 gr.)",
+          "Papa 1 unidad grande (250 gr.)(horno)"
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Arroz blanco 1 plato",
 					"Huevo entero 1 unidad",
 					"Queso cremoso cuartirolo light 1 cassette (50 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Milanesa de Nalga 1 unidad grande (200 gr.)",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Milanesa de Nalga 1 unidad grande (200 gr.)",
 					"Lechuga (100 gr.)",
 					"Tomate 1 unidad grande (270 gr.)",
 					"Cebolla 1 unidad grande (120 gr.)",
 					"Zanahoria 1 unidad grande (100 gr.)",
 					"Mayonesa light 1 cda. sopera (12 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 lata de atún al natural (120 gr.) escurrido",
-					"Tomate 1 unidad grande (270 gr.)",
-					"Pan 1 rebanada pan lacteado rodaja fina",
-					"Huevo entero 1 unidad"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Pizza 2 porciones compradas o 3 porciones caseras",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 lata de atún al natural (120 gr.) escurrido",
+          "Tomate 1 unidad grande (270 gr.)",
+          "Pan 1 rebanada pan lacteado rodaja fina",
+          "Huevo entero 1 unidad"
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Pizza 2 porciones compradas o 3 porciones caseras",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 lata de atún al natural (120 gr.) escurrido",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 lata de atún al natural (120 gr.) escurrido",
 					"Pan 4 rebanadas Bimbo light salvado rodaja fina",
 					"Mayonesa light 2 cda. sopera (24 gr.)",
 					"Flan Ser vainilla/chocolate/tentación 1 unidad (105 gr.)",
 					"Dulce de leche 1 cda. postre (10 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Salchicha de Soja Vegetalex 4 unidades (o común light)",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Salchicha de Soja Vegetalex 4 unidades (o común light)",
 					"Pan 4 rebanadas Bimbo light salvado rodaja fina",
 					"Mayonesa BC La Campagnola 4 cda. sopera (48 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Hamburguesa de soja Vegetalex 2 unidades (o común light)",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Hamburguesa de soja Vegetalex 2 unidades (o común light)",
 					"Pan 4 rebanadas Bimbo light salvado rodaja fina",
 					"Mayonesa BC La Campagnola 4 cda. sopera (48 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Rapidita Bimbo light 4 unidades",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Rapidita Bimbo light 4 unidades",
 					"1 lata de atún al natural (120 gr.) escurrido",
 					"Mayonesa BC La Campagnola 2 cda. sopera (24 gr.)",
 					"Queso Port Salut light 1 cassette (50 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Pastas 1 plato con salsa de tomate",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Pastas 1 plato con salsa de tomate",
 					"Pan 1 rebanada pan lacteado rodaja fina",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"Hamburguesas Paty Light 2 unidades",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "Hamburguesas Paty Light 2 unidades",
 					"Arroz blanco 1 pocillo café (40 gr.) crudo",
 					"Queso cremoso cuartirolo light ½ cassette (25 gr.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		],
-		[
-			{
-				"menu" : "name of menu",
-				"ingredients" : [
-					"1 Corte de carne magra mediano (150 gr.)",
+        ]
+      },
+      {
+        "name": "Menu name",
+        "menu": [
+          "1 Corte de carne magra mediano (150 gr.)",
 					"2 papas chicas",
 					"Aceite 1 cda. postre (10 cc.)",
 					"Gelatina light 1 porción"
-				]
-			}
-		]
-	]
-]
+        ]
+      }
+    ]
+  }
+}
